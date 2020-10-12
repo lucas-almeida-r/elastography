@@ -1,5 +1,5 @@
 # About this repo
-This repo contains some extra material mentioned in [my blog](https://lucas-almeida-r.github.io) posts about elastography.
+This repo contains some extra material mentioned in [my blog](https://lucas-almeida-r.github.io) posts about neural networks for elastography.
 
 It contains the notebooks used in the blog posts and some extra stuff, such as the saved models.
 

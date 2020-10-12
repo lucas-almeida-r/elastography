@@ -1,6 +1,3 @@
 # About this repo
-This repo contains some extra material mentioned in [my blog](https://lucas-almeida-r.github.io) posts about neural networks for elastography.
 
-It contains the notebooks used in the blog posts and some extra stuff, such as the saved models.
-
-The notebooks may be outdated, since the ones used to generate the blog posts are in [another repo](https://github.com/lucas-almeida-r/blog/tree/master/_notebooks).
+This repo constains the models created in the blog posts *A neural network for elastography ([part 1](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/08/elastography_1.html)) and ([part 2](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/09/elastography_2.html))*.

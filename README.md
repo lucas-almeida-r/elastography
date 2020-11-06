@@ -13,4 +13,6 @@ Motivated by this application, our goal is to build a model that calculates the 
 
 By the end of [part 2](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/09/elastography_2.html), we have built a model, such as illustrated below. The neural network (a CNN) receives the displacement field as input and outputs the predicted stiffness. In this example, we see that the model was able to outline the inclusion with a good resolution, despite the noise in the displacement field.
 
-<img src="https://github.com/lucas-almeida-r/elastography/blob/master/models/model.png" width="400" />
+<p align="center">
+  <img src="https://github.com/lucas-almeida-r/elastography/blob/master/models/model.png" width="500" />
+</p>

@@ -1,6 +1,6 @@
 # A neural network for elastography
 
-> This repo contains models built in the blog posts: *A neural network for elastography ([part 1](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/08/elastography_1.html)) and ([part 2](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/09/elastography_2.html))*.
+> This repo contains models built in the blog posts: *A neural network for elastography [part 1](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/08/elastography_1.html) and [part 2](https://lucas-almeida-r.github.io/blog/neural%20networks/elastography/2020/10/09/elastography_2.html)*.
 
 [Elastography](https://en.wikipedia.org/wiki/Elastography) is a medical imaging modality that informs us about the stiffness of soft tissue. This information is relevant because many diseases form hard tissues. For instance, tumors, thrombus, and diseased liver tissue are usually stiffer than their surrounding tissues.
 
